@@ -5,3 +5,4 @@
 - 2021-12-27 [组件封装技巧之slot](slot/slot.md)
 - 2021-12-27 [组件封装技巧之parent And inject](parent&&inject/index.md)
 - 2021-12-27 [组件封装技巧之v-once](v-once/index.md)
+- 2021-12-27 [mixin自定义选项合并策略](mixin/index.md)
